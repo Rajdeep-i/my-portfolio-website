@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { Mail, Linkedin, Github, Gamepad2, Phone } from 'lucide-react';
+import { Button } from '@/components/ui/button';
 
 const socialLinks = [
   {
@@ -135,6 +136,18 @@ const ContactSection = () => {
                     {link.name}
                   </span>
                 ))}
+              </div>
+              {/* Download Resume Button */}
+              <div className="mt-8 flex justify-center">
+                <a href="/Resume.pdf" download>
+                  <Button
+                    variant="default"
+                    size="lg"
+                    className="font-orbitron uppercase tracking-wider bg-gradient-neon text-primary-foreground hover:opacity-90 transition-opacity"
+                  >
+                    Download Resume
+                  </Button>
+                </a>
               </div>
             </div>
           </div>

@@ -88,14 +88,15 @@ const HeroSection = () => {
           >
             View Projects
           </Button>
-          <Button
-            variant="outline"
-            size="lg"
-            className="font-orbitron uppercase tracking-wider border-primary/50 text-primary hover:bg-primary/10 hover:border-primary transition-all hover:scale-110 duration-300 "
-            onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}
-          >
-            Contact Me
-          </Button>
+          <a href="/Resume.pdf" download>
+            <Button
+              variant="outline"
+              size="lg"
+              className="font-orbitron uppercase tracking-wider border-primary/50 text-primary hover:bg-primary/10 hover:border-primary transition-all hover:scale-110 duration-300"
+            >
+              Download Resume
+            </Button>
+          </a>
         </motion.div>
       </div>
 
