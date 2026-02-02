@@ -60,7 +60,7 @@ const HeroSection = () => {
         >
           <span className="text-foreground">Rajdeep Debnath</span>
           <br />
-          <span className="neon-text-gradient">Game Developer & Game Designer</span>
+          <span className="neon-text-gradient">I am a Game Designer</span>
         </motion.h1>
 
         {/* Subtext */}
