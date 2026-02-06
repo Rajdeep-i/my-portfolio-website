@@ -60,7 +60,7 @@ const HeroSection = () => {
         >
           <span className="text-foreground">Rajdeep Debnath</span>
           <br />
-          <span className="neon-text-gradient">I am a Game Designer</span>
+          <span className="neon-text-gradient">I am a Game Developer and a Game Designer</span>
         </motion.h1>
 
         {/* Subtext */}
@@ -70,7 +70,7 @@ const HeroSection = () => {
           transition={{ duration: 0.6, delay: 0.4 }}
           className="font-inter text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10"
         >
-          Unreal Developer specializing in Blueprint systems • Game Designer • Gameplay Programmer
+          Unreal Developer specializing in Blueprint systems • Gameplay Programmer • Game Designer • Passionate about creating immersive gaming experiences
         </motion.p>
 
         {/* CTA Buttons */}
