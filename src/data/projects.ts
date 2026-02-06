@@ -21,7 +21,7 @@ export const projects: Project[] = [
       "This is the first project from my studio, developed using Unreal Engine Blueprints, with primary emphasis on core gameplay mechanics and responsive player controls.",
     image: "img/HVAC Associate/HVACAssociate.jpg",
     screenshots: [
-      "https://drive.google.com/file/d/1biYrinQIcssiYKGjfUmd6jc5DZARnT5F/view?usp=drive_link",
+      "img/HVAC Associate/473398258_635622448981248_3438246790668467954_n.webp",
       "https://drive.google.com/file/d/1-GfPxzt-yAiX-fORyzGAO8kfEWasOwLV/view?usp=drive_link",
       "https://drive.google.com/file/d/1-KZSwhEmu1PLMJa4PyJCxaZK8NAW5Pml/view?usp=drive_link",
       "https://drive.google.com/file/d/1lXIq8Jh5dDYA4rkDZ9bApOJ4EuxxFRwr/view?usp=drive_link",
