@@ -43,11 +43,11 @@ export const projects: Project[] = [
     title: "EV Battery Assembly & Packaging Technician",
     description:
       "This is the second project developed at my studio using Unreal Engine Blueprints, emphasizing core gameplay mechanics and responsive player controllers, built collaboratively with a programming lead and a 3D artist. ",
-    image: "https://drive.google.com/file/d/1qW3HdloJEc7KivNjmlzUi0XbonTVL19u/view?usp=drive_link",
+    image: "img/EV Battery/EVBattery.jpg",
     screenshots: [
-      "https://drive.google.com/file/d/1_eb7M5okyl8QBihDg7DuAkT4Vjep8_2q/view?usp=drive_link",
-      "https://drive.google.com/file/d/1UlWYGeHxyt3OsL8JrBgHDUy47zZSEPiq/view?usp=drive_link",
-      "https://drive.google.com/file/d/1Fg9-otF06zPgmMifsJOmVFJv0S2ypkWc/view?usp=drive_link",
+      "img/EV Battery/EVBAT1.jpg",
+      "img/EV Battery/EVBAT2.jpg",
+      "img/EV Battery/EVBAT3.jpg",
     ],
     tools: ["Unreal Engine", "Blueprints", "C++"],
     role: "Gameplay Programmer",
